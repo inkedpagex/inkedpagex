@@ -12,7 +12,7 @@
   <a href="https://chiragchak.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-chiragchak.in-0055FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/chirag-05097827b" target="_blank">
+  <a href="https://www.linkedin.com/in/chirag-chak-05097827b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/chir_ag897" target="_blank">
@@ -55,6 +55,8 @@
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=inkedpagex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0055FF&icon_color=0055FF&text_color=C9D1D9" height="165" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=inkedpagex&theme=tokyonight&hide_border=true&background=0D1117&stroke=0055FF&ring=0055FF&fire=FF7B00&currStreakNum=0055FF" height="165" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inkedpagex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0055FF&text_color=C9D1D9" height="150" alt="Top Languages" />
 </div>
 
 <br/>
