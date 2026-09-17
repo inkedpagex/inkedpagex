@@ -1,5 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=220&section=header&text=Chirag%20Chak&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Startup%20Builder%20%E2%80%A2%20Creator&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  
+  <a href="https://chiragchak.in" target="_blank">
+    <img src="https://raw.githubusercontent.com/inkedpagex/inkedpagex/main/assets/chirag-photo.png" width="145" height="145" alt="Chirag Chak Avatar" />
+  </a>
 </div>
 
 <div align="center">
