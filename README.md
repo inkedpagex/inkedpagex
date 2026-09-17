@@ -50,19 +50,11 @@
 
 <br/>
 
-### 📈 GitHub Activity Stream
+### 📊 GitHub Analytics & Consistency
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inkedpagex&bg_color=0D1117&color=0055FF&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-### 📊 GitHub Analytics & Streak
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inkedpagex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0055FF&icon_color=0055FF&text_color=C9D1D9" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inkedpagex&theme=tokyonight&hide_border=true&background=0D1117&stroke=0055FF&ring=0055FF&fire=FF7B00&currStreakNum=0055FF" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=inkedpagex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0055FF&icon_color=0055FF&text_color=C9D1D9" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=inkedpagex&theme=tokyonight&hide_border=true&background=0D1117&stroke=0055FF&ring=0055FF&fire=FF7B00&currStreakNum=0055FF" height="165" alt="GitHub Streak" />
 </div>
 
 <br/>
